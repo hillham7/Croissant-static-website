@@ -8,3 +8,22 @@ h1,
 p {
   text-align: center;
 }
+
+.photo {
+  display: block;
+  margin: auto;
+  max-width: 100%;
+  border-radius: 10%;
+  box-shadow: 10px 5px 5px #e58cdb;
+}
+
+footer {
+  text-align: center;
+  margin-top: 45px;
+}
+
+footer a {
+  color: #0c9cee;
+  font-size: 20px;
+  margin: 0 20px;
+}
